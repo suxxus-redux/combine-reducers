@@ -23,7 +23,8 @@
     "watch-cli": "0.2.1"
   },
   "keywords": [
-    "node",
-    "project"
+    "redux",
+    "study",
+    "combine-reducers"
   ]
 }
