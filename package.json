@@ -18,13 +18,14 @@
     "eslint": "2.8.0",
     "eslint-cli": "1.1.0",
     "eslint-config-eslint": "3.0.0",
-    "redux": "^3.5.2",
     "updtr": "0.1.10",
     "watch-cli": "0.2.1"
   },
   "keywords": [
     "redux",
-    "study",
     "combine-reducers"
-  ]
+  ],
+  "dependencies": {
+    "redux": "3.5.2"
+  }
 }
