@@ -1,5 +1,5 @@
 # Combine-reducers
-redux combine reducers study
+readux studies combine reducers
 
 
 ## Clone the repo & install
