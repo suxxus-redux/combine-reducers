@@ -1,5 +1,5 @@
 # Combine-reducers
-redux combine reducers study
+readux studies combine reducers
 
 
 ## Clone the repo & install
@@ -12,6 +12,9 @@ npm install
 cd ./src/scripts
 
 **node App.js**
+
+## Tips
+each reducer manages its own part of the global state
 
 ## Links
 [combineReducers(reducers)](http://redux.js.org/docs/api/combineReducers.html)
